@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @BrokeLuver
-- 👀 I’m interested in Python development
-- 🌱 I’m currently learning Java
-- 📫 How to reach me tg: @broke_luver
-- ⚡ Fun fact: I'm musician and RSO kommisar
+
